@@ -1,5 +1,5 @@
 # COM421-P2
-A usability report for the Colonist Web-Game
+A usability report for the Colonist Web Game
 
 This proposal is submitted by Group 6, comprising Adil Ghoghawala, Gustaf Shumlansky, Khiem Do, and Michael Johanson. We aim to address specific usability issues identified in the user interface of The Colonist, an online adaptation of the popular board game. Our findings are based on a combination of direct user observations and feedback from Google forms.
 
